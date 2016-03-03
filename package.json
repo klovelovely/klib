@@ -1,0 +1,11 @@
+{
+  "name": "klib",
+  "version": "1.0.0",
+  "description": "A Web Front-End JavaScript library with some useful toolset.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kavalon <klovelovely@live.com> (http://varcat.me)",
+  "license": "ISC"
+}
